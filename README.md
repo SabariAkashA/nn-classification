@@ -1,11 +1,9 @@
-# Developing a Neural Network Classification Model
+# EXP-02: Developing a Neural Network Classification Model
 
 ## AIM
-
 To develop a neural network classification model for the given dataset.
 
 ## Problem Statement
-
 An automobile company has plans to enter new markets with their existing products. After intensive market research, they’ve decided that the behavior of the new market is similar to their existing market.
 
 In their existing market, the sales team has classified all customers into 4 segments (A, B, C, D ). Then, they performed segmented outreach and communication for a different segment of customers. This strategy has work exceptionally well for them. They plan to use the same strategy for the new markets.
@@ -261,12 +259,15 @@ print('Sabari Akash')
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
+
 <img src=image-2.png width= 300 height=200>
 
 ### Classification Report
+
 <img src=image-3.png width=120 height=80>
 
 ### Confusion Matrix
+
 <img src= image-4.png width=200 height=120>
 
 ### New Sample Data Prediction 
